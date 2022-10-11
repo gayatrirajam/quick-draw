@@ -1,0 +1,17 @@
+body{
+    background: radial-gradient(rgb(80, 188, 255) 0%, lightslategrey 100%);
+
+}
+#score{
+    font-size: 35px;
+    margin-right: 1780px;
+}
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-left: 1780px;
+}
+#sketch_needed{
+    font-size: 25;
+    color: rgb(57, 37, 0);
+}
